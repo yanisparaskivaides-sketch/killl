@@ -1,0 +1,2434 @@
+[
+  {
+    "time": "21:00:15",
+    "date": "2026-10-10",
+    "ts": 1791666015,
+    "mp": "fura",
+    "killer": {
+      "name": "Potok_Destallione",
+      "id": 118
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Danya_Sunrise",
+      "id": 414
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:1"
+  },
+  {
+    "time": "21:00:17",
+    "date": "2026-10-10",
+    "ts": 1791666017,
+    "mp": "fura",
+    "killer": {
+      "name": "Potok_Destallione",
+      "id": 118
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Bexa_Denaprio",
+      "id": 268
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:2"
+  },
+  {
+    "time": "21:00:19",
+    "date": "2026-10-10",
+    "ts": 1791666019,
+    "mp": "fura",
+    "killer": {
+      "name": "Avesome_Na_Black",
+      "id": 553
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Nurik_Nacapte",
+      "id": 577
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:3"
+  },
+  {
+    "time": "21:00:25",
+    "date": "2026-10-10",
+    "ts": 1791666025,
+    "mp": "fura",
+    "killer": {
+      "name": "Skaywolker_Harington",
+      "id": 40
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Silley14985",
+      "id": 391
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:4"
+  },
+  {
+    "time": "21:00:26",
+    "date": "2026-10-10",
+    "ts": 1791666026,
+    "mp": "fura",
+    "killer": {
+      "name": "Avesome_Na_Black",
+      "id": 553
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Aleqs_Fomin",
+      "id": 593
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:5"
+  },
+  {
+    "time": "21:00:28",
+    "date": "2026-10-10",
+    "ts": 1791666028,
+    "mp": "fura",
+    "killer": {
+      "name": "Romann_Ryan",
+      "id": 451
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Melstroi_Suetolog",
+      "id": 527
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:6"
+  },
+  {
+    "time": "21:00:29",
+    "date": "2026-10-10",
+    "ts": 1791666029,
+    "mp": "fura",
+    "killer": {
+      "name": "Skaywolker_Harington",
+      "id": 40
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Avesome_Na_Black",
+      "id": 553
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:7"
+  },
+  {
+    "time": "21:00:33",
+    "date": "2026-10-10",
+    "ts": 1791666033,
+    "mp": "fura",
+    "killer": {
+      "name": "Jessi_Rossi",
+      "id": 544
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Silley14985",
+      "id": 391
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:8"
+  },
+  {
+    "time": "21:00:34",
+    "date": "2026-10-10",
+    "ts": 1791666034,
+    "mp": "fura",
+    "killer": {
+      "name": "Romann_Ryan",
+      "id": 451
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Ponedelnik_Alksandor",
+      "id": 562
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:9"
+  },
+  {
+    "time": "21:00:36",
+    "date": "2026-10-10",
+    "ts": 1791666036,
+    "mp": "fura",
+    "killer": {
+      "name": "Adam_Rossi",
+      "id": 127
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Romann_Ryan",
+      "id": 451
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:10"
+  },
+  {
+    "time": "21:00:38",
+    "date": "2026-10-10",
+    "ts": 1791666038,
+    "mp": "fura",
+    "killer": {
+      "name": "Monessey_Fomin",
+      "id": 277
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Avesome_Na_Black",
+      "id": 553
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:11"
+  },
+  {
+    "time": "21:00:43",
+    "date": "2026-10-10",
+    "ts": 1791666043,
+    "mp": "fura",
+    "killer": {
+      "name": "Nastya_delor",
+      "id": 322
+    },
+    "weapon": {
+      "name": "Неизвестно",
+      "id": 50
+    },
+    "victim": {
+      "name": "VlP_1740204",
+      "id": 538
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:12"
+  },
+  {
+    "time": "21:00:43",
+    "date": "2026-10-10",
+    "ts": 1791666043,
+    "mp": "fura",
+    "killer": {
+      "name": "Jessi_Rossi",
+      "id": 544
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "222p",
+      "id": 530
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:13"
+  },
+  {
+    "time": "21:00:44",
+    "date": "2026-10-10",
+    "ts": 1791666044,
+    "mp": "fura",
+    "killer": {
+      "name": "Potok_Destallione",
+      "id": 118
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Andrew_Nur",
+      "id": 495
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:14"
+  },
+  {
+    "time": "21:00:45",
+    "date": "2026-10-10",
+    "ts": 1791666045,
+    "mp": "fura",
+    "killer": {
+      "name": "Skaywolker_Harington",
+      "id": 40
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Ilya_Ivanov_3",
+      "id": 645
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:15"
+  },
+  {
+    "time": "21:00:49",
+    "date": "2026-10-10",
+    "ts": 1791666049,
+    "mp": "fura",
+    "killer": {
+      "name": "Skaywolker_Harington",
+      "id": 40
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Kyle_Dima",
+      "id": 445
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:16"
+  },
+  {
+    "time": "21:01:02",
+    "date": "2026-10-10",
+    "ts": 1791666062,
+    "mp": "fura",
+    "killer": {
+      "name": "Dodanah_Syrkmor",
+      "id": 375
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "__2114__",
+      "id": 270
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:17"
+  },
+  {
+    "time": "21:01:04",
+    "date": "2026-10-10",
+    "ts": 1791666064,
+    "mp": "fura",
+    "killer": {
+      "name": "Devil_Harington",
+      "id": 297
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "00pp",
+      "id": 435
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:18"
+  },
+  {
+    "time": "21:01:10",
+    "date": "2026-10-10",
+    "ts": 1791666070,
+    "mp": "fura",
+    "killer": {
+      "name": "Monessey_Fomin",
+      "id": 277
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Maga_Official",
+      "id": 253
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:19"
+  },
+  {
+    "time": "21:01:12",
+    "date": "2026-10-10",
+    "ts": 1791666072,
+    "mp": "fura",
+    "killer": {
+      "name": "Arkadii_Sunrise",
+      "id": 381
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Said_Molodoy",
+      "id": 642
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:20"
+  },
+  {
+    "time": "21:01:14",
+    "date": "2026-10-10",
+    "ts": 1791666074,
+    "mp": "fura",
+    "killer": {
+      "name": "Danya_Sunrise",
+      "id": 414
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Crmp_15",
+      "id": 264
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:21"
+  },
+  {
+    "time": "21:01:14",
+    "date": "2026-10-10",
+    "ts": 1791666074,
+    "mp": "fura",
+    "killer": {
+      "name": "Devil_Harington",
+      "id": 297
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Damir_damgi",
+      "id": 598
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:22"
+  },
+  {
+    "time": "21:01:15",
+    "date": "2026-10-10",
+    "ts": 1791666075,
+    "mp": "fura",
+    "killer": {
+      "name": "Mishanya_Mur",
+      "id": 290
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Prateso_Pubertatinio",
+      "id": 71
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:23"
+  },
+  {
+    "time": "21:01:15",
+    "date": "2026-10-10",
+    "ts": 1791666075,
+    "mp": "fura",
+    "killer": {
+      "name": "Potok_Destallione",
+      "id": 118
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Danya_Sunrise",
+      "id": 414
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:24"
+  },
+  {
+    "time": "21:01:20",
+    "date": "2026-10-10",
+    "ts": 1791666080,
+    "mp": "fura",
+    "killer": {
+      "name": "Anton_Gojo",
+      "id": 532
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Mart_Will",
+      "id": 39
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:25"
+  },
+  {
+    "time": "21:01:28",
+    "date": "2026-10-10",
+    "ts": 1791666088,
+    "mp": "fura",
+    "killer": {
+      "name": "Alex_Volt",
+      "id": 578
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Neopoznanyy_Wordsize",
+      "id": 266
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:26"
+  },
+  {
+    "time": "21:01:30",
+    "date": "2026-10-10",
+    "ts": 1791666090,
+    "mp": "fura",
+    "killer": {
+      "name": "Amir_Sunrise",
+      "id": 117
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Melstroi_Suetolog",
+      "id": 527
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:27"
+  },
+  {
+    "time": "21:01:31",
+    "date": "2026-10-10",
+    "ts": 1791666091,
+    "mp": "fura",
+    "killer": {
+      "name": "Kalashnikov_Andrey",
+      "id": 351
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Amir_Sunrise",
+      "id": 117
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:28"
+  },
+  {
+    "time": "21:01:32",
+    "date": "2026-10-10",
+    "ts": 1791666092,
+    "mp": "fura",
+    "killer": {
+      "name": "Devil_Harington",
+      "id": 297
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Eva_Cruel",
+      "id": 159
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:29"
+  },
+  {
+    "time": "21:01:34",
+    "date": "2026-10-10",
+    "ts": 1791666094,
+    "mp": "fura",
+    "killer": {
+      "name": "Maksim_Davinchi",
+      "id": 409
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Sakura_Shimizy",
+      "id": 618
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:30"
+  },
+  {
+    "time": "21:01:36",
+    "date": "2026-10-10",
+    "ts": 1791666096,
+    "mp": "fura",
+    "killer": {
+      "name": "Maga_Alibekov2",
+      "id": 231
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Prateso_Pubertatinio",
+      "id": 71
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:31"
+  },
+  {
+    "time": "21:01:44",
+    "date": "2026-10-10",
+    "ts": 1791666104,
+    "mp": "fura",
+    "killer": {
+      "name": "Fayko_Renaissanced",
+      "id": 352
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Santa_Seybalimov",
+      "id": 640
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:32"
+  },
+  {
+    "time": "21:01:49",
+    "date": "2026-10-10",
+    "ts": 1791666109,
+    "mp": "fura",
+    "killer": {
+      "name": "Anton_Gojo",
+      "id": 532
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Mart_Will",
+      "id": 39
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:33"
+  },
+  {
+    "time": "21:01:50",
+    "date": "2026-10-10",
+    "ts": 1791666110,
+    "mp": "fura",
+    "killer": {
+      "name": "Adam_Rossi",
+      "id": 127
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Amir_Sunrise",
+      "id": 117
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:34"
+  },
+  {
+    "time": "21:01:50",
+    "date": "2026-10-10",
+    "ts": 1791666110,
+    "mp": "fura",
+    "killer": {
+      "name": "Evka_Susanina",
+      "id": 257
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Dodanah_Syrkmor",
+      "id": 375
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:35"
+  },
+  {
+    "time": "21:01:50",
+    "date": "2026-10-10",
+    "ts": 1791666110,
+    "mp": "fura",
+    "killer": {
+      "name": "Nastya_Chelsi",
+      "id": 622
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Monessey_Fomin",
+      "id": 277
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:36"
+  },
+  {
+    "time": "21:01:54",
+    "date": "2026-10-10",
+    "ts": 1791666114,
+    "mp": "fura",
+    "killer": {
+      "name": "Maksim_Davinchi",
+      "id": 409
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Oleg_Sokollov",
+      "id": 570
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:37"
+  },
+  {
+    "time": "21:02:00",
+    "date": "2026-10-10",
+    "ts": 1791666120,
+    "mp": "fura",
+    "killer": {
+      "name": "David_Gyumri",
+      "id": 492
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Aleksandr_Rahimovich",
+      "id": 191
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:38"
+  },
+  {
+    "time": "21:02:00",
+    "date": "2026-10-10",
+    "ts": 1791666120,
+    "mp": "fura",
+    "killer": {
+      "name": "Hibary_Velmyss",
+      "id": 461
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Maga_Official",
+      "id": 253
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:39"
+  },
+  {
+    "time": "21:02:12",
+    "date": "2026-10-10",
+    "ts": 1791666132,
+    "mp": "fura",
+    "killer": {
+      "name": "Makkar_Igorovvich",
+      "id": 113
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Fonk_Arena",
+      "id": 436
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:40"
+  },
+  {
+    "time": "21:02:12",
+    "date": "2026-10-10",
+    "ts": 1791666132,
+    "mp": "fura",
+    "killer": {
+      "name": "Simple_Legend",
+      "id": 542
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "David_Gyumri",
+      "id": 492
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:41"
+  },
+  {
+    "time": "21:02:12",
+    "date": "2026-10-10",
+    "ts": 1791666132,
+    "mp": "fura",
+    "killer": {
+      "name": "Micheal_Gabra",
+      "id": 415
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Kosta_More",
+      "id": 385
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:42"
+  },
+  {
+    "time": "21:02:15",
+    "date": "2026-10-10",
+    "ts": 1791666135,
+    "mp": "fura",
+    "killer": {
+      "name": "Sandy_Sweet",
+      "id": 171
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Micheal_Gabra",
+      "id": 415
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:43"
+  },
+  {
+    "time": "21:02:17",
+    "date": "2026-10-10",
+    "ts": 1791666137,
+    "mp": "fura",
+    "killer": {
+      "name": "Santa_Seybalimov",
+      "id": 640
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Vpotoke_Renaissanced",
+      "id": 447
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:44"
+  },
+  {
+    "time": "21:02:21",
+    "date": "2026-10-10",
+    "ts": 1791666141,
+    "mp": "fura",
+    "killer": {
+      "name": "Fayko_Renaissanced",
+      "id": 352
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "__2114__",
+      "id": 270
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:45"
+  },
+  {
+    "time": "21:02:24",
+    "date": "2026-10-10",
+    "ts": 1791666144,
+    "mp": "fura",
+    "killer": {
+      "name": "Dosymzhan_Tangatar",
+      "id": 260
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "De_shich",
+      "id": 370
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:46"
+  },
+  {
+    "time": "21:02:25",
+    "date": "2026-10-10",
+    "ts": 1791666145,
+    "mp": "fura",
+    "killer": {
+      "name": "Dimka_Danger",
+      "id": 291
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Senix_Rannikh",
+      "id": 573
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:47"
+  },
+  {
+    "time": "21:02:27",
+    "date": "2026-10-10",
+    "ts": 1791666147,
+    "mp": "fura",
+    "killer": {
+      "name": "Potok_Destallione",
+      "id": 118
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Danya_Sunrise",
+      "id": 414
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:48"
+  },
+  {
+    "time": "21:02:30",
+    "date": "2026-10-10",
+    "ts": 1791666150,
+    "mp": "fura",
+    "killer": {
+      "name": "Dimka_Danger",
+      "id": 291
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Vanek_vor",
+      "id": 486
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:49"
+  },
+  {
+    "time": "21:02:31",
+    "date": "2026-10-10",
+    "ts": 1791666151,
+    "mp": "fura",
+    "killer": {
+      "name": "Kalashnikov_Andrey",
+      "id": 351
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Sandy_Sweet",
+      "id": 171
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:50"
+  },
+  {
+    "time": "21:02:35",
+    "date": "2026-10-10",
+    "ts": 1791666155,
+    "mp": "fura",
+    "killer": {
+      "name": "Dimka_Danger",
+      "id": 291
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Senix_Rannikh",
+      "id": 573
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:51"
+  },
+  {
+    "time": "21:02:36",
+    "date": "2026-10-10",
+    "ts": 1791666156,
+    "mp": "fura",
+    "killer": {
+      "name": "Santa_Seybalimov",
+      "id": 640
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Fayko_Renaissanced",
+      "id": 352
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:52"
+  },
+  {
+    "time": "21:02:37",
+    "date": "2026-10-10",
+    "ts": 1791666157,
+    "mp": "fura",
+    "killer": {
+      "name": "Andrew_Nur",
+      "id": 495
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Said_Molodoy",
+      "id": 642
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:53"
+  },
+  {
+    "time": "21:02:37",
+    "date": "2026-10-10",
+    "ts": 1791666157,
+    "mp": "fura",
+    "killer": {
+      "name": "Dodanah_Syrkmor",
+      "id": 375
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Silley14985",
+      "id": 391
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:54"
+  },
+  {
+    "time": "21:02:39",
+    "date": "2026-10-10",
+    "ts": 1791666159,
+    "mp": "fura",
+    "killer": {
+      "name": "Arsenii_Hitman",
+      "id": 141
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Andrew_Nur",
+      "id": 495
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:55"
+  },
+  {
+    "time": "21:02:41",
+    "date": "2026-10-10",
+    "ts": 1791666161,
+    "mp": "fura",
+    "killer": {
+      "name": "Maksim_Davinchi",
+      "id": 409
+    },
+    "weapon": {
+      "name": "Дробовик",
+      "id": 25
+    },
+    "victim": {
+      "name": "Neopoznanyy_Wordsize",
+      "id": 266
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:56"
+  },
+  {
+    "time": "21:02:43",
+    "date": "2026-10-10",
+    "ts": 1791666163,
+    "mp": "fura",
+    "killer": {
+      "name": "Nastya_Chelsi",
+      "id": 622
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Kosta_More",
+      "id": 385
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:57"
+  },
+  {
+    "time": "21:02:44",
+    "date": "2026-10-10",
+    "ts": 1791666164,
+    "mp": "fura",
+    "killer": {
+      "name": "Dimka_Danger",
+      "id": 291
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Vanek_vor",
+      "id": 486
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:58"
+  },
+  {
+    "time": "21:02:55",
+    "date": "2026-10-10",
+    "ts": 1791666175,
+    "mp": "fura",
+    "killer": {
+      "name": "Hibary_Velmyss",
+      "id": 461
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Kijik_Socials",
+      "id": 112
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:59"
+  },
+  {
+    "time": "21:03:03",
+    "date": "2026-10-10",
+    "ts": 1791666183,
+    "mp": "fura",
+    "killer": {
+      "name": "Monessey_Fomin",
+      "id": 277
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Kijik_Socials",
+      "id": 112
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:60"
+  },
+  {
+    "time": "21:03:04",
+    "date": "2026-10-10",
+    "ts": 1791666184,
+    "mp": "fura",
+    "killer": {
+      "name": "Dimka_Danger",
+      "id": 291
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Mek_Poekhali",
+      "id": 430
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:61"
+  },
+  {
+    "time": "21:03:08",
+    "date": "2026-10-10",
+    "ts": 1791666188,
+    "mp": "fura",
+    "killer": {
+      "name": "Mia_Velmyss",
+      "id": 284
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "David_Gyumri",
+      "id": 492
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:62"
+  },
+  {
+    "time": "21:03:19",
+    "date": "2026-10-10",
+    "ts": 1791666199,
+    "mp": "fura",
+    "killer": {
+      "name": "Dimka_Danger",
+      "id": 291
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Mek_Poekhali",
+      "id": 430
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:63"
+  },
+  {
+    "time": "21:03:20",
+    "date": "2026-10-10",
+    "ts": 1791666200,
+    "mp": "fura",
+    "killer": {
+      "name": "_DIABLO_BOP_",
+      "id": 278
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Xexexexe_Xexexov",
+      "id": 29
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:64"
+  },
+  {
+    "time": "21:03:27",
+    "date": "2026-10-10",
+    "ts": 1791666207,
+    "mp": "fura",
+    "killer": {
+      "name": "Vikysya_Zlaya",
+      "id": 550
+    },
+    "weapon": {
+      "name": "Неизвестно",
+      "id": 50
+    },
+    "victim": {
+      "name": "Fayko_Renaissanced",
+      "id": 352
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:65"
+  },
+  {
+    "time": "21:03:27",
+    "date": "2026-10-10",
+    "ts": 1791666207,
+    "mp": "fura",
+    "killer": {
+      "name": "Vikysya_Zlaya",
+      "id": 550
+    },
+    "weapon": {
+      "name": "Неизвестно",
+      "id": 50
+    },
+    "victim": {
+      "name": "Silley14985",
+      "id": 391
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:66"
+  },
+  {
+    "time": "21:03:29",
+    "date": "2026-10-10",
+    "ts": 1791666209,
+    "mp": "fura",
+    "killer": {
+      "name": "Lusia_Grafinskaya",
+      "id": 443
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Sahib_Akberli",
+      "id": 367
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:67"
+  },
+  {
+    "time": "21:03:43",
+    "date": "2026-10-10",
+    "ts": 1791666223,
+    "mp": "fura",
+    "killer": {
+      "name": "Sigma_Tema",
+      "id": 607
+    },
+    "weapon": {
+      "name": "Неизвестно",
+      "id": 0
+    },
+    "victim": {
+      "name": "Gabcaro02",
+      "id": 176
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:68"
+  },
+  {
+    "time": "21:03:48",
+    "date": "2026-10-10",
+    "ts": 1791666228,
+    "mp": "fura",
+    "killer": {
+      "name": "_KOSTAS_HARISON_",
+      "id": 12
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Fonk_Arena",
+      "id": 436
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:69"
+  },
+  {
+    "time": "21:04:05",
+    "date": "2026-10-10",
+    "ts": 1791666245,
+    "mp": "fura",
+    "killer": {
+      "name": "Nastya_Chelsi",
+      "id": 622
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Devil_Harington",
+      "id": 297
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:70"
+  },
+  {
+    "time": "21:04:19",
+    "date": "2026-10-10",
+    "ts": 1791666259,
+    "mp": "fura",
+    "killer": {
+      "name": "Dimka_Danger",
+      "id": 291
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Egor_Maxsonov",
+      "id": 227
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:71"
+  },
+  {
+    "time": "21:04:20",
+    "date": "2026-10-10",
+    "ts": 1791666260,
+    "mp": "fura",
+    "killer": {
+      "name": "Vilka_Dior",
+      "id": 120
+    },
+    "weapon": {
+      "name": "Винтовка",
+      "id": 33
+    },
+    "victim": {
+      "name": "Vadim24",
+      "id": 258
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:72"
+  },
+  {
+    "time": "21:04:38",
+    "date": "2026-10-10",
+    "ts": 1791666278,
+    "mp": "fura",
+    "killer": {
+      "name": "Vladik_Dior",
+      "id": 426
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Vilka_Dior",
+      "id": 120
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:73"
+  },
+  {
+    "time": "21:04:39",
+    "date": "2026-10-10",
+    "ts": 1791666279,
+    "mp": "fura",
+    "killer": {
+      "name": "Dimka_Danger",
+      "id": 291
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Egor_Maxsonov",
+      "id": 227
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:74"
+  },
+  {
+    "time": "21:05:02",
+    "date": "2026-10-10",
+    "ts": 1791666302,
+    "mp": "fura",
+    "killer": {
+      "name": "Gor_Torrento",
+      "id": 554
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Vladik_Dior",
+      "id": 426
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:75"
+  },
+  {
+    "time": "21:05:23",
+    "date": "2026-10-10",
+    "ts": 1791666323,
+    "mp": "fura",
+    "killer": {
+      "name": "Arsenii_Hitman",
+      "id": 141
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "VlP_1740204",
+      "id": 538
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:76"
+  },
+  {
+    "time": "21:05:25",
+    "date": "2026-10-10",
+    "ts": 1791666325,
+    "mp": "fura",
+    "killer": {
+      "name": "Arsenii_Hitman",
+      "id": 141
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Prateso_Pubertatinio",
+      "id": 71
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:77"
+  },
+  {
+    "time": "21:05:42",
+    "date": "2026-10-10",
+    "ts": 1791666342,
+    "mp": "fura",
+    "killer": {
+      "name": "Evka_Susanina",
+      "id": 257
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Said_Molodoy",
+      "id": 642
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:78"
+  },
+  {
+    "time": "21:06:00",
+    "date": "2026-10-10",
+    "ts": 1791666360,
+    "mp": "fura",
+    "killer": {
+      "name": "Mek_Poekhali",
+      "id": 430
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Frenchesko_Bernuli",
+      "id": 391
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:79"
+  },
+  {
+    "time": "21:06:03",
+    "date": "2026-10-10",
+    "ts": 1791666363,
+    "mp": "fura",
+    "killer": {
+      "name": "Xelp_REPULSE",
+      "id": 632
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Nurik_Nacapte",
+      "id": 577
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:80"
+  },
+  {
+    "time": "21:06:11",
+    "date": "2026-10-10",
+    "ts": 1791666371,
+    "mp": "fura",
+    "killer": {
+      "name": "Xelp_REPULSE",
+      "id": 632
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Dodanah_Syrkmor",
+      "id": 375
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:81"
+  },
+  {
+    "time": "21:06:16",
+    "date": "2026-10-10",
+    "ts": 1791666376,
+    "mp": "fura",
+    "killer": {
+      "name": "Arkadii_Sunrise",
+      "id": 381
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Xelp_REPULSE",
+      "id": 632
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:82"
+  },
+  {
+    "time": "21:06:46",
+    "date": "2026-10-10",
+    "ts": 1791666406,
+    "mp": "fura",
+    "killer": {
+      "name": "Mek_Poekhali",
+      "id": 430
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Frenchesko_Bernuli",
+      "id": 391
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:83"
+  },
+  {
+    "time": "21:06:47",
+    "date": "2026-10-10",
+    "ts": 1791666407,
+    "mp": "fura",
+    "killer": {
+      "name": "Prateso_Pubertatinio",
+      "id": 71
+    },
+    "weapon": {
+      "name": "MP5",
+      "id": 29
+    },
+    "victim": {
+      "name": "Maga_Official",
+      "id": 253
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:84"
+  },
+  {
+    "time": "21:06:53",
+    "date": "2026-10-10",
+    "ts": 1791666413,
+    "mp": "fura",
+    "killer": {
+      "name": "Adam_Rossi",
+      "id": 127
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Gosha_Belovvv",
+      "id": 529
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:85"
+  },
+  {
+    "time": "21:06:55",
+    "date": "2026-10-10",
+    "ts": 1791666415,
+    "mp": "fura",
+    "killer": {
+      "name": "Said_Molodoy",
+      "id": 642
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Evka_Susanina",
+      "id": 257
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:86"
+  },
+  {
+    "time": "21:06:56",
+    "date": "2026-10-10",
+    "ts": 1791666416,
+    "mp": "fura",
+    "killer": {
+      "name": "Arkadii_Sunrise",
+      "id": 381
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Said_Molodoy",
+      "id": 642
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:87"
+  },
+  {
+    "time": "21:07:01",
+    "date": "2026-10-10",
+    "ts": 1791666421,
+    "mp": "fura",
+    "killer": {
+      "name": "Lusia_Grafinskaya",
+      "id": 443
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Sahib_Akberli",
+      "id": 367
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:88"
+  },
+  {
+    "time": "21:07:09",
+    "date": "2026-10-10",
+    "ts": 1791666429,
+    "mp": "fura",
+    "killer": {
+      "name": "Dimka_Danger",
+      "id": 291
+    },
+    "weapon": {
+      "name": "Неизвестно",
+      "id": 49
+    },
+    "victim": {
+      "name": "Nastya_delor",
+      "id": 322
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:89"
+  },
+  {
+    "time": "21:07:27",
+    "date": "2026-10-10",
+    "ts": 1791666447,
+    "mp": "fura",
+    "killer": {
+      "name": "Micheal_Gabra",
+      "id": 415
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Kyle_Dima",
+      "id": 553
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:90"
+  },
+  {
+    "time": "21:07:33",
+    "date": "2026-10-10",
+    "ts": 1791666453,
+    "mp": "fura",
+    "killer": {
+      "name": "Gosha_Belovvv",
+      "id": 529
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Aleksandr_Rahimovich",
+      "id": 191
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:91"
+  },
+  {
+    "time": "21:07:41",
+    "date": "2026-10-10",
+    "ts": 1791666461,
+    "mp": "fura",
+    "killer": {
+      "name": "Micheal_Gabra",
+      "id": 415
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Kyle_Dima",
+      "id": 553
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:92"
+  },
+  {
+    "time": "21:07:42",
+    "date": "2026-10-10",
+    "ts": 1791666462,
+    "mp": "fura",
+    "killer": {
+      "name": "Aleksandr_Sigmovih",
+      "id": 527
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Gosha_Belovvv",
+      "id": 529
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:93"
+  },
+  {
+    "time": "21:07:50",
+    "date": "2026-10-10",
+    "ts": 1791666470,
+    "mp": "fura",
+    "killer": {
+      "name": "Medved_Nsk",
+      "id": 366
+    },
+    "weapon": {
+      "name": "Неизвестно",
+      "id": 50
+    },
+    "victim": {
+      "name": "Vovan_Wot",
+      "id": 200
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:94"
+  },
+  {
+    "time": "21:07:57",
+    "date": "2026-10-10",
+    "ts": 1791666477,
+    "mp": "fura",
+    "killer": {
+      "name": "Fayko_Renaissanced",
+      "id": 352
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Arkadii_Sunrise",
+      "id": 381
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:95"
+  },
+  {
+    "time": "21:07:59",
+    "date": "2026-10-10",
+    "ts": 1791666479,
+    "mp": "fura",
+    "killer": {
+      "name": "Xelp_REPULSE",
+      "id": 632
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Evka_Susanina",
+      "id": 257
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:96"
+  },
+  {
+    "time": "21:08:11",
+    "date": "2026-10-10",
+    "ts": 1791666491,
+    "mp": "fura",
+    "killer": {
+      "name": "Maksim_Davinchi",
+      "id": 409
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Arsenii_Hitman",
+      "id": 141
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:97"
+  },
+  {
+    "time": "21:08:11",
+    "date": "2026-10-10",
+    "ts": 1791666491,
+    "mp": "fura",
+    "killer": {
+      "name": "Xelp_REPULSE",
+      "id": 632
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Maksim_Davinchi",
+      "id": 409
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:98"
+  },
+  {
+    "time": "21:08:11",
+    "date": "2026-10-10",
+    "ts": 1791666491,
+    "mp": "fura",
+    "killer": {
+      "name": "Vpotoke_Renaissanced",
+      "id": 447
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Said_Molodoy",
+      "id": 642
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:99"
+  },
+  {
+    "time": "21:08:11",
+    "date": "2026-10-10",
+    "ts": 1791666491,
+    "mp": "fura",
+    "killer": {
+      "name": "Frenchesko_Bernuli",
+      "id": 391
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Xelp_REPULSE",
+      "id": 632
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:100"
+  },
+  {
+    "time": "21:08:20",
+    "date": "2026-10-10",
+    "ts": 1791666500,
+    "mp": "fura",
+    "killer": {
+      "name": "Arkadii_Sunrise",
+      "id": 381
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Fayko_Renaissanced",
+      "id": 352
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:101"
+  },
+  {
+    "time": "21:08:29",
+    "date": "2026-10-10",
+    "ts": 1791666509,
+    "mp": "fura",
+    "killer": {
+      "name": "Sahe_Raagmailcom",
+      "id": 5
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Micheal_Gabra",
+      "id": 415
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:102"
+  },
+  {
+    "time": "21:08:29",
+    "date": "2026-10-10",
+    "ts": 1791666509,
+    "mp": "fura",
+    "killer": {
+      "name": "Ilya_Gilevl",
+      "id": 303
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Leonid_Litvin",
+      "id": 341
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:103"
+  },
+  {
+    "time": "21:08:32",
+    "date": "2026-10-10",
+    "ts": 1791666512,
+    "mp": "fura",
+    "killer": {
+      "name": "Maksim_Davinchi",
+      "id": 409
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Xelp_REPULSE",
+      "id": 632
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:104"
+  },
+  {
+    "time": "21:08:43",
+    "date": "2026-10-10",
+    "ts": 1791666523,
+    "mp": "fura",
+    "killer": {
+      "name": "Avesome_Na_Black",
+      "id": 307
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Shemil_Shemil",
+      "id": 51
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:105"
+  },
+  {
+    "time": "21:08:58",
+    "date": "2026-10-10",
+    "ts": 1791666538,
+    "mp": "fura",
+    "killer": {
+      "name": "Prateso_Pubertatinio",
+      "id": 304
+    },
+    "weapon": {
+      "name": "MP5",
+      "id": 29
+    },
+    "victim": {
+      "name": "Elizabeti",
+      "id": 433
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:106"
+  },
+  {
+    "time": "21:09:03",
+    "date": "2026-10-10",
+    "ts": 1791666543,
+    "mp": "fura",
+    "killer": {
+      "name": "Mathias_Cassin",
+      "id": 318
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Doni_Keo",
+      "id": 23
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:107"
+  },
+  {
+    "time": "21:09:36",
+    "date": "2026-10-10",
+    "ts": 1791666576,
+    "mp": "fura",
+    "killer": {
+      "name": "David_Gyumri",
+      "id": 492
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Yuki_Forever",
+      "id": 381
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:108"
+  },
+  {
+    "time": "21:09:43",
+    "date": "2026-10-10",
+    "ts": 1791666583,
+    "mp": "fura",
+    "killer": {
+      "name": "Yaroslav_Kotletka",
+      "id": 561
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Olenka_Renaissance",
+      "id": 331
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:109"
+  },
+  {
+    "time": "21:09:43",
+    "date": "2026-10-10",
+    "ts": 1791666583,
+    "mp": "fura",
+    "killer": {
+      "name": "222p",
+      "id": 223
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Arsen_555",
+      "id": 541
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:110"
+  },
+  {
+    "time": "21:09:47",
+    "date": "2026-10-10",
+    "ts": 1791666587,
+    "mp": "fura",
+    "killer": {
+      "name": "Arsenii_Hitman",
+      "id": 141
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Vadim0077",
+      "id": 37
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:111"
+  },
+  {
+    "time": "21:09:48",
+    "date": "2026-10-10",
+    "ts": 1791666588,
+    "mp": "fura",
+    "killer": {
+      "name": "Xelp_REPULSE",
+      "id": 632
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Dodanah_Syrkmor",
+      "id": 375
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:112"
+  },
+  {
+    "time": "21:09:48",
+    "date": "2026-10-10",
+    "ts": 1791666588,
+    "mp": "fura",
+    "killer": {
+      "name": "Sahe_Raagmailcom",
+      "id": 5
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "222p",
+      "id": 223
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:113"
+  },
+  {
+    "time": "21:09:51",
+    "date": "2026-10-10",
+    "ts": 1791666591,
+    "mp": "fura",
+    "killer": {
+      "name": "Skaywolker_Harington",
+      "id": 40
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Crmp_15",
+      "id": 264
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:114"
+  },
+  {
+    "time": "21:09:52",
+    "date": "2026-10-10",
+    "ts": 1791666592,
+    "mp": "fura",
+    "killer": {
+      "name": "Xelp_REPULSE",
+      "id": 632
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Nurik_Nacapte",
+      "id": 577
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:115"
+  },
+  {
+    "time": "21:10:16",
+    "date": "2026-10-10",
+    "ts": 1791666616,
+    "mp": "fura",
+    "killer": {
+      "name": "Avesome_Na_Black",
+      "id": 307
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Sahib_Akberli",
+      "id": 367
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:116"
+  },
+  {
+    "time": "21:10:16",
+    "date": "2026-10-10",
+    "ts": 1791666616,
+    "mp": "fura",
+    "killer": {
+      "name": "Avesome_Na_Black",
+      "id": 307
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Mia_Velmyss",
+      "id": 284
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:117"
+  },
+  {
+    "time": "21:10:16",
+    "date": "2026-10-10",
+    "ts": 1791666616,
+    "mp": "fura",
+    "killer": {
+      "name": "Mek_Poekhali",
+      "id": 430
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Sonoiette5031",
+      "id": 242
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:118"
+  },
+  {
+    "time": "21:10:16",
+    "date": "2026-10-10",
+    "ts": 1791666616,
+    "mp": "fura",
+    "killer": {
+      "name": "Avesome_Na_Black",
+      "id": 307
+    },
+    "weapon": {
+      "name": "M4",
+      "id": 31
+    },
+    "victim": {
+      "name": "Maga_Alibekov2",
+      "id": 231
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:119"
+  },
+  {
+    "time": "21:10:16",
+    "date": "2026-10-10",
+    "ts": 1791666616,
+    "mp": "fura",
+    "killer": {
+      "name": "Micheal_Gabra",
+      "id": 415
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "222p",
+      "id": 223
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:120"
+  },
+  {
+    "time": "21:10:34",
+    "date": "2026-10-10",
+    "ts": 1791666634,
+    "mp": "fura",
+    "killer": {
+      "name": "Adam_Rossi",
+      "id": 127
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Avesome_Na_Black",
+      "id": 307
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:121"
+  },
+  {
+    "time": "21:10:34",
+    "date": "2026-10-10",
+    "ts": 1791666634,
+    "mp": "fura",
+    "killer": {
+      "name": "Ivann_Krispy",
+      "id": 185
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Anastasia_Kamilova",
+      "id": 154
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:122"
+  },
+  {
+    "time": "21:10:34",
+    "date": "2026-10-10",
+    "ts": 1791666634,
+    "mp": "fura",
+    "killer": {
+      "name": "Micheal_Gabra",
+      "id": 415
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Silley14985",
+      "id": 129
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:123"
+  },
+  {
+    "time": "21:10:34",
+    "date": "2026-10-10",
+    "ts": 1791666634,
+    "mp": "fura",
+    "killer": {
+      "name": "Ivann_Krispy",
+      "id": 185
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Kinterol_Helders",
+      "id": 202
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:124"
+  },
+  {
+    "time": "21:10:37",
+    "date": "2026-10-10",
+    "ts": 1791666637,
+    "mp": "fura",
+    "killer": {
+      "name": "Micheal_Gabra",
+      "id": 415
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "_KOSTAS_HARISON_",
+      "id": 12
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:125"
+  },
+  {
+    "time": "21:10:48",
+    "date": "2026-10-10",
+    "ts": 1791666648,
+    "mp": "fura",
+    "killer": {
+      "name": "Egor_alkagolik",
+      "id": 195
+    },
+    "weapon": {
+      "name": "AK-47",
+      "id": 30
+    },
+    "victim": {
+      "name": "Kinterol_Helders",
+      "id": 202
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:126"
+  },
+  {
+    "time": "21:10:48",
+    "date": "2026-10-10",
+    "ts": 1791666648,
+    "mp": "fura",
+    "killer": {
+      "name": "Ivann_Krispy",
+      "id": 185
+    },
+    "weapon": {
+      "name": "Desert Eagle",
+      "id": 24
+    },
+    "victim": {
+      "name": "Egor_alkagolik",
+      "id": 195
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:127"
+  },
+  {
+    "time": "21:10:48",
+    "date": "2026-10-10",
+    "ts": 1791666648,
+    "mp": "fura",
+    "killer": {
+      "name": "Prateso_Pubertatinio",
+      "id": 304
+    },
+    "weapon": {
+      "name": "MP5",
+      "id": 29
+    },
+    "victim": {
+      "name": "Bogdan_Hasik",
+      "id": 281
+    },
+    "source_message_id": "import:1488551542591324360:1558743800199778414:128"
+  }
+]
